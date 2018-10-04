@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-// By: Nathalia Nogueira
+// By: Nathalia Nogueira 816114445
 
 public class DisplayMessageActivity extends AppCompatActivity {
 
