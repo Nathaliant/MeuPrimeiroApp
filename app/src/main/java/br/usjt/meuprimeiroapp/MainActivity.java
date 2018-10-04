@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 
-// By: Nathalia Nogueira
+// By: Nathalia Nogueira Torres 816114445
 
 public class MainActivity extends Activity {
 
